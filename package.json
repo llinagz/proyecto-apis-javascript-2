@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-pelis",
+  "version": "1.0.0",
+  "description": "Consumo de API de películas para la realización del proyecto.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llinagz/proyecto-pelis-js.git"
+  },
+  "author": "@llina_gz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/llinagz/proyecto-pelis-js/issues"
+  },
+  "homepage": "https://github.com/llinagz/proyecto-pelis-js#readme"
+}
