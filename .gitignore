@@ -2,4 +2,4 @@
 .vscode
 
 #Secrets.js (API)
-src/secrets.js
+src/secret.js
